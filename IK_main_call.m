@@ -3,7 +3,7 @@ clear
 close all
 
 %% Add function files path
-addpath supported_files
+% addpath supported_files
 
 %% Solution tolerance
 tol = 1e-4;
